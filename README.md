@@ -23,7 +23,7 @@ I am currently a student at the University of Information Technology, where I am
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=odin-hoang&show_icons=true&hide=issues&count_private=true)](https://github.com/odin-hoang)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=odinhoang03&show_icons=true&hide=issues&count_private=true)](https://github.com/odinhoang03)
 
 ## Connect with Me
 
